@@ -1,2 +1,1 @@
-statistic_inference
-===================
+statistic inference
